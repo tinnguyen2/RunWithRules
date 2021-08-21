@@ -1,0 +1,12 @@
+﻿ApplicantId,PropertName,PropertyValue
+1,Name,John
+1,State,FL
+1,Country,USA
+2,Name,Jill
+2,State,TX
+2,Country,France
+3,Name,Jack
+3,State,FL
+4,Name,Julie
+4,State,OK
+4,Country,USA

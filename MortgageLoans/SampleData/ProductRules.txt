@@ -1,0 +1,10 @@
+﻿Id,ProductId,RuleName,RuleApplyOrder,ApplicantPropertyName,ApplicantPropertyNumericValue,ApplicantPropertyStringValue,CompareFunction,ProductPropertyAffected,ProductPropertyChangeAmount
+1,1,ExcellentCreditScoreDiscount,1,CreditScore,760,,MORE,InterestRate,-0.5
+2,1,GoodCreditScoreDiscount,2,CreditScore,720,,MORE,InterestRate,-0.3
+3,1,NewbieSurcharge,3,CurrentRentalPropertyCount,5,,LESS,PMI,0.02
+1,2,ExcellentCreditScoreDiscount,1,CreditScore,760,,MORE,InterestRate,-0.5
+2,2,GoodCreditScoreDiscount,2,CreditScore,720,,MORE,InterestRate,-0.3
+3,2,ExcludeFlorida,3,State,0,FL,SAME,InterestRate,1000000
+1,3,ExcellentCreditScoreDiscount,1,CreditScore,760,,MORE,InterestRate,-0.5
+2,3,GoodCreditScoreDiscount,2,CreditScore,720,,MORE,InterestRate,-0.3
+3,3,ForeignerSurcharge,3,Country,0,usa,DIFF,InterestRate,2

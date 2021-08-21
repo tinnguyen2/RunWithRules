@@ -1,0 +1,8 @@
+﻿ApplicantId,PropertName,PropertyValue
+1,CreditScore,721
+1,CurrentRentalPropertyCount,3
+2,CreditScore,699
+2,CurrentRentalPropertyCount,12
+3,CreditScore,745
+4,CreditScore,640
+4,CurrentRentalPropertyCount,5

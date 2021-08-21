@@ -1,0 +1,8 @@
+﻿Id,ProductId,Name,Value
+1,1,InterestRate,5
+2,1,PMI,0.01
+3,2,InterestRate,5
+4,2,PMI,0.005
+5,3,InterestRate,5
+6,3,PMI,0.01
+7,3,MinimumDown,0.2
